@@ -1,6 +1,6 @@
 # QR code component 
 
-- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/basic-responsive-blog-website/)
+- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/QR-code-component/)
 
 ## Table of contents
 
@@ -19,12 +19,12 @@
 
 ### Screenshot : 
 
-![Screenshot](/Screenshots/Home.png?raw=true "View Of Page")
+![Screenshot](/screenshots/mobile-design.jpg?raw=true "View Of Page")
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/prakash-naikwadi/basic-responsive-blog-website)
-- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/basic-responsive-blog-website/)
+- Solution URL: [Solution URL](https://github.com/prakash-naikwadi/QR-code-component)
+- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/QR-code-component/)
 
 ## My process
 - Started Learning Responsive Web Design By Kevin Powell.
